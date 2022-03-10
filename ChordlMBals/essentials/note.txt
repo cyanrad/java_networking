@@ -1,0 +1,4 @@
+>> note that for some reason as long as 
+    the keyword package is used in the SimpleApplet class
+    the entire thing stops working idk.
+    fuking packages man

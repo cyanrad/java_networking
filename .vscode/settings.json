@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "ChordlMBals"
+        "ChordlMBals",
+        "ChordlMBals/essentials"
     ]
 }
