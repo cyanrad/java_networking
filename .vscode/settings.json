@@ -2,5 +2,9 @@
     "java.project.sourcePaths": [
         "ChordlMBals",
         "ChordlMBals/essentials"
-    ]
+    ],
+    "files.associations": {
+        "algorithm": "cpp",
+        "unordered_set": "cpp"
+    }
 }
